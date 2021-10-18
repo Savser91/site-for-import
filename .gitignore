@@ -1,0 +1,10 @@
+# ignore all files and catalogs Thumbs.db 
+Thumbs.db
+
+# ignore files ending with...
+*_old
+*_backup
+*.DS_Store
+
+# ignore catalog tmp
+tmp/
